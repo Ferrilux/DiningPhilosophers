@@ -1,0 +1,3 @@
+﻿  Table.cpp
+C:\Users\mikop\OneDrive\Pulpit\Studia\VI Semestr\SO2\DiningPhilosophers\DiningPhilosophers\Table.cpp(34,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  DiningPhilosophers.vcxproj -> C:\Users\mikop\OneDrive\Pulpit\Studia\VI Semestr\SO2\DiningPhilosophers\Debug\DiningPhilosophers.exe
